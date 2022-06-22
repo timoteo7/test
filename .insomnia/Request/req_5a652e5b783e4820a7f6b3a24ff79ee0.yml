@@ -1,0 +1,30 @@
+_id: req_5a652e5b783e4820a7f6b3a24ff79ee0
+type: Request
+parentId: fld_80e3b11bc16246a2a0c74e925757b9c2
+modified: 1655902391564
+created: 1655737278215
+url: https://l400441-iflmap.hcisbp.br1.hana.ondemand.com/http/kikker/mercadologico
+name: Mercadologico
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_36c4efeea755485e8c19dda560f0c308
+      name: nomeobjeto
+      value: OBJ01
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_d776bd1a37744d4cab6d83dd42735e4a
+authentication: {}
+metaSortKey: -1655737278216
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

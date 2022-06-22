@@ -1,0 +1,27 @@
+_id: req_598729e1ac40446ebbba7392267ea0d4
+type: Request
+parentId: fld_80c420d7552849b88edc0d5655e3dbaf
+modified: 1655763906869
+created: 1655763352918
+url: https://api.erpeasy.compels.net/v1/kikker/mercadologico
+name: Mercadologico
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_f2f51a23feb147218766ae8d19f894ed
+    name: page
+    value: "1"
+    description: ""
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2VtYWlsIjoia2lra2VyQHN1cGVybWVyY2Fkb3NhbHZvcmFkYS5jb20iLCJjb21wYW55X2lkIjoyLCJ1c2VyX2lkIjoxMDY3NiwidXNlcl9uYW1lIjoiS2lra2VyIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIl0sImNvbXBhbnlfZG9jdW1lbnQiOiIyMS40MTQuOTU4LzAwMDEtMDciLCJjb21wYW55X25hbWUiOiJNQUdMSU9OSSBSSUJFSVJPICYgQ0lBIExUREEgKENPTS4pIiwiY29tcGFueV9jb2RlIjoiTVIwMSIsImV4cCI6MTY4NzI5OTI0MCwiYXV0aG9yaXRpZXMiOlsiRlVMTF9BQ0NFU1MiXSwianRpIjoiam5tS1hUeVlETUpBVmlIUHIvVWZEVzh5WjV3PSIsImNsaWVudF9pZCI6ImN0aWNrZXQtY2xpZW50In0.ARoI1GDff0JbvtpI7Kk4H0jcrHmEtB8CVZCClb5o4sI
+metaSortKey: -1655763352918
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

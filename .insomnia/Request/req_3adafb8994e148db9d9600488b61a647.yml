@@ -1,0 +1,40 @@
+_id: req_3adafb8994e148db9d9600488b61a647
+type: Request
+parentId: fld_d3df678734354a04a281fb34f073a02e
+modified: 1655476161432
+created: 1655297500345
+url: http://192.168.0.38:50000/RESTAdapter/Kikker/GetEstruturaMercadologica
+name: Mercadologico
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_e7f18f5513a24ca595fcdfaed8f2613a
+    name: top
+    value: "5000"
+    description: ""
+  - id: pair_5de6e5a92b1a4ce0888c89752b1e59a5
+    name: skip
+    value: "1"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6928096efecd4ac8bbc1b5b487bef723
+    disabled: false
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: kikker
+  password: sRoL6K2hP120L2
+metaSortKey: -1655297500346
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

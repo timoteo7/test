@@ -1,0 +1,43 @@
+_id: req_d6abe1fc5b81463ab435fc97b963d4be
+type: Request
+parentId: fld_a81e7eb9ceb94928be0ff4bc3ea3cedf
+modified: 1655476062476
+created: 1655468491416
+url: https://api.muffato.io/zk-prd/RESTAdapter/Kikker/GetEstruturaMercadologica
+name: Mercadologico
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_4c66c25a8ce94e3ba15eba886b6435bd
+    name: top
+    value: "5000"
+    description: ""
+  - id: pair_f60b662f7e6849a6a11aba8a4c0b9851
+    name: skip
+    value: "1"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2bb520843e0a49979daa411d0a4dcfad
+  - id: pair_758e7456fb3f4aeba0700541447ed48f
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: kikker
+  password: Muff#2021@Prd
+metaSortKey: -1655467204679
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
